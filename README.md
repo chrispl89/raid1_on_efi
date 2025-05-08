@@ -12,8 +12,8 @@ This repository contains a step-by-step guide to setting up a **RAID1 array for 
 
 ## Content
 
-- `efi-raid1.md` – Main guide with commands and explanations.
-- Tested on: Debian-based distributions (e.g. Debian 12)
+- `instruction.md` – Main guide with commands and explanations.
+- Tested on: Debian-based distributions (Debian 12)
 
 ## License
 
